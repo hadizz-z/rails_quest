@@ -1,0 +1,9 @@
+one:
+  codename: "Agent_007"
+  level: 5
+  active: true
+
+two:
+  codename: "Agent_666"
+  level: 7
+  active: true
